@@ -1,0 +1,6 @@
+WIN WAVE "Winer.wav"
+LOSE WAVE "Loser.wav"
+TAS WAVE "Tas.wav"
+DOWN WAVE "down.wav"
+UP WAVE "Up.wav"
+BUTTON WAVE "Button.wav"

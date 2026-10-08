@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.845,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit7.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.629,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.413,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit1.pas=D:\Moje Dokumenty\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.520,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.368,D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Project1.dproj=D:\Moje Dokumenty\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.689,D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Project1.dproj=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit1.dfm=D:\Moje Dokumenty\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.338,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.120,=D:\Moje Dokumenty\Embarcadero\Studio\Projects\karty\resources.rc</Transaction>
+  </Transactions>
+</BorlandProject>
